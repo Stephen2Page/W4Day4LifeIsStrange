@@ -46,3 +46,7 @@ span.icon-bar {
 #trailer{
     text-align: right;
 }
+/*Preview Section*/
+.previewThumb{
+    margin:auto;
+}
